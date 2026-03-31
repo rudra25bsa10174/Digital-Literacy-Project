@@ -52,6 +52,7 @@ Through this initiative, the project aims to enhance digital awareness and prepa
 Digital Literacy Awareness Quiz
 [Click here to test your digital awareness] 
 https://docs.google.com/forms/d/e/1FAIpQLScdjbkO5jbbLiD5aqkyuret0ACkucUMAIy1-f0FL5Tg5CUViQ/viewform?usp=header
+
 Solved beginner problem on HackerRank  
 ● Learned basic Python (input, output, functions)  
 ● Created a Google Form quiz  
